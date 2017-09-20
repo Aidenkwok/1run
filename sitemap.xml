@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://1runstudio.com/index.html</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://1runstudio.com/images/instagram-logo-black-transparent-crop-u479.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://1runstudio.com/manifesto.html</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://1runstudio.com/contact.html</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://1runstudio.com/images/instagram-logo-black-transparent-crop-u466.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://1runstudio.com/assets/1_run_colour.mp4</loc>
+    <lastmod>2017-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

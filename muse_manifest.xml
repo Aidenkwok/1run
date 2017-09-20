@@ -1,0 +1,55 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1runstudio.com" resolutions="1x" timestamp="1505899592742">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contact.css" crc="416156964" ref="contact"/>
+    <file name="index.css" crc="3968287271" ref="index"/>
+    <file name="manifesto.css" crc="4192468034" ref="manifesto"/>
+  </folder>
+  <folder name="assets">
+    <file name="1_run_colour.mp4" crc="180534627" seo="true" mt="1505841114000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:manifesto:contact"/>
+    <file name="museutils.js" crc="17924269" ref="index:manifesto:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:manifesto:contact"/>
+    <file name="museconfig.js" crc="144853533" ref="index:manifesto:contact"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:manifesto:contact"/>
+    <file name="require.js" crc="3861931657" ref="index:manifesto:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u130-4.png" crc="104057605" ref="index"/>
+    <file name="u156-4-a.png" crc="4021572145" ref="index"/>
+    <file name="instagram-logo-black-transparent-crop-u479.png" crc="454553240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u187-4.png" crc="3906190206" ref="index"/>
+    <file name="u162-4.png" crc="3764730621" ref="index"/>
+    <file name="u370-4-a.png" crc="3906190206" ref="manifesto"/>
+    <file name="u382-4.png" crc="104057605" ref="manifesto"/>
+    <file name="u331-4.png" crc="3769823150" ref="manifesto"/>
+    <file name="u256-6.png" crc="286307956" ref="manifesto"/>
+    <file name="u263-4.png" crc="3979080719" ref="manifesto"/>
+    <file name="u274-4.png" crc="9015085" ref="manifesto"/>
+    <file name="u277-4.png" crc="3927141384" ref="manifesto"/>
+    <file name="u280-4.png" crc="43908116" ref="manifesto"/>
+    <file name="u283-4.png" crc="4281335968" ref="manifesto"/>
+    <file name="u286-4.png" crc="4105354983" ref="manifesto"/>
+    <file name="u289-4.png" crc="4254117438" ref="manifesto"/>
+    <file name="u224-70.png" crc="323863829" ref="manifesto"/>
+    <file name="u324-4.png" crc="3839403782" ref="manifesto"/>
+    <file name="u346-4.png" crc="104057605" ref="contact"/>
+    <file name="u376-4.png" crc="4021572145" ref="contact"/>
+    <file name="u373-4.png" crc="267238325" ref="contact"/>
+    <file name="u441-4.png" crc="289696100" ref="contact"/>
+    <file name="u442-8.png" crc="3986294556" ref="contact"/>
+    <file name="u453-4.png" crc="175227172" ref="contact"/>
+    <file name="u463-4.png" crc="181022639" ref="contact"/>
+    <file name="instagram-logo-black-transparent-crop-u466.png" crc="454553240" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u377-4-a.png" crc="220655591" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="346768093" seo="true" mt="1505899404309" redirect="true"/>
+  <file name="manifesto.html" crc="89976950" seo="true" mt="1505899321833" redirect="true"/>
+  <file name="contact.html" crc="297687102" seo="true" mt="1505899552557" redirect="true"/>
+</manifest>
